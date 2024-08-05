@@ -16,4 +16,4 @@
 
 :palm_tree: This application is in development at the moment. I will release the Android version soon, followed by the iOS version
 
-:mushroom: Currently working on a personally designed website: [https://peak-fitness.vercel.app](https://peak.hhayer.ca/)
+:mushroom: Currently working on a personally designed website: [https://peak.hhayer.ca/](https://peak.hhayer.ca/)
