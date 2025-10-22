@@ -11,9 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-### Native Android & iOS Application
+### React Native Android & iOS Application
 
 
-:palm_tree: This application is in development at the moment. I will release the Android version soon, followed by the iOS version
+:palm_tree: This application is in development at the moment. I will be releasing soon.
 
-:mushroom: Currently working on a personally designed website: [https://peak.hhayer.ca/](https://peak.hhayer.ca/)
+:mushroom: Currently working on the landing page for this project: [https://peak.hhayer.ca/](https://peak.hhayer.ca/)
